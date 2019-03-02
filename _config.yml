@@ -22,6 +22,5 @@ topics:
   - name: Data Visualization
     web_url: https://github.com/topics/data-visualization
     
- - name: Natural Language Processing
-   web_url: https://github.com/topics/nlp
-   
+  - name: Natural Language Processing
+    web_url: https://github.com/topics/nlp
